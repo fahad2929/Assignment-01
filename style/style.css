@@ -26,8 +26,7 @@ bottom: 4462px;
 }
 .banner-profile{
 
-    display: flex;
-    justify-content: center;
+
     align-items: center;
 }
 .banner-title{
@@ -205,11 +204,17 @@ bottom: 0%
     text-align: center;
 }
 .video{
-    width: 1140px;
-height: 777px;
+    width: 1200px;
+height: 500px;
 left: 148px;
 right: 152px;
 top: 2340px;
 bottom: 2128px;
 padding: 0px;
+}
+.main-video{
+    text-align: center;
+}
+.descrip{
+    text-align: center;
 }
