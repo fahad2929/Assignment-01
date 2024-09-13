@@ -71,25 +71,22 @@ background-color: rgb(0, 0, 0);
     height: 40px;
     border-radius: 2px;
 }
+/* .video{
+    padding: 20px;
+} */
 .video-hed{
     color: rgb(13, 19, 33);
     font-size:28px;
     font-weight: 600;
-    line-height: 25px;
-    letter-spacing: 0%;
     text-align: center;
+    padding: 10px;
 }
-.video{
-    width: 1200px;
-height: 500px;
-left: 148px;
-right: 152px;
-top: 2340px;
-bottom: 2128px;
-padding: 0px;
+.video-des{
+    text-align: center;
 }
 .main-video{
     text-align: center;
+    padding: 20px;
 }
 .descrip{
     text-align: center;
