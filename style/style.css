@@ -117,6 +117,21 @@ background-color: rgb(0, 0, 0);
 .li{
     text-decoration: underline;
 }
+.next{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.next-main{
+   text-align: center;
+}
+.next-1{
+    display: flex;
+    border: 1px solid saddlebrown;
+    border-radius: 8px;
+    margin:20px 150px;
+    gap: 32px;
+    padding: 15px;
+}
 .footer-column{
     background-image:url(../assets/handshake.jpg);
     height:max-content;
